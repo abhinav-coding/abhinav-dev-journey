@@ -10,7 +10,7 @@ This file documents every risk, bold step, and powerful action I took in my deve
 - ✅ Took initiative to learn, track, and upload without waiting for a laptop
 
 ## 🎯 Upcoming Moves
-- 📹 Start documenting coding journey on YouTube (optional)
+
 - 🧑‍💻 Build a 100 Days of Code log in GitHub
 - 📚 Apply for coding scholarships & competitions
 - ✈️ Prepare a powerful student resume (Class 10+)
