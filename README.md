@@ -1,110 +1,81 @@
-👨‍💻 Abhinav's Developer Journey
+# 👨‍💻 Abhinav's Dev Journey 🚀
 
-Welcome to my official portfolio and coding journey! I'm Abhinav, a passionate student aiming to become a Software Engineer at Google 🚀
+![Python](https://img.shields.io/badge/Learning-Python-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Mobile-orange)
+![Goal](https://img.shields.io/badge/Goal-Google%20Software%20Engineer-brightgreen)
+![Consistency](https://img.shields.io/badge/Focus-Consistency%20%26%20Growth-yellow)
 
-
----
-
-📌 About Me
-
-🎓 Class 9 Student | India
-
-💡 Self-learner on mobile using SoloLearn
-
-🎯 Goal: Join Google as a software engineer (L3 level and beyond)
-
-🏆 Always ready to take risks and chase big dreams
-
-💻 Learning daily and building cool mini-projects!
-
-
+Welcome to my developer portfolio! I'm a student on a mission to become a world-class software engineer at Google. I believe in the power of learning by doing, and I’m building my future step by step — starting from just a mobile phone. 📱✨
 
 ---
 
-📅 100 Days of Code Log
+## 📂 What You’ll Find Here
 
-Track my daily code progress:
+- 🧠 **Mini Projects**  
+  Real Python projects like calculators, games, and more!
 
-Day 1: Started Python, learned about print(), strings, and variables
-Day 2: Used input(), type conversion, f-strings
-Day 3: Mini project - Bonus Score Game
-Day 4: Built a Simple Calculator
-Day 5: Learned about snake_case, comments, and added two new operations
-...
+- 🔧 **Debugging Challenges**  
+  Where I fix broken code and explain the errors.
 
-➡️ Full Log in 100-days-of-code.md
-
-
----
-
-🧠 My Tech Stack (Ongoing)
-
-✅ Python (Core)
-
-⏳ HTML, CSS, JS (Coming Soon)
-
-🧩 Git, GitHub (In Use)
-
-🎯 C++, Java (Planned for future)
-
-🧮 Problem Solving, DSA (Started)
-
-
+- 🚀 **Long-Term Portfolio Moves**  
+  - `100 Days of Code`
+  - GitHub streak logs
+  - Portfolio.md & power-moves.md
 
 ---
 
-💼 Portfolio Projects
+## 🧩 Why I’m Doing This
 
-Here are my best projects so far:
-
-Project Name	Description	GitHub Link
-
-Bonus Score Game	Adds bonus score to user's total	🔗 Link
-Simple Calculator	Performs +, -, *, /, %, // operations	🔗 Link
-Greeting App	Personalized greeting based on user input	(Coming Soon)
-
-
-➡️ Full List in portfolio.md
-
+- ✅ To learn Python, problem-solving, and real-world coding
+- 🏆 To qualify for scholarships & crack Google-level interviews
+- 🎯 To build a rock-solid developer portfolio on GitHub
+- 🌍 To inspire others starting with just a mobile phone
 
 ---
 
-🔥 Risk Moves
+## 🌟 Current Skills
 
-Every month, I take a bold step:
-
-✅ June: Published first GitHub project
-
-🔜 July: Launch my developer YouTube video
-
-
+- Python (Beginner–Intermediate)
+- Debugging
+- GitHub basics
+- Problem-solving mindset
 
 ---
 
-📚 Study Goals
+## ⏳ Upcoming Goals
 
-🏆 Top all classes in school (90%+)
-
-💸 Earn scholarship for a top tech college
-
-📦 Build a full dev portfolio before Class 12
-
-
+- Start Data Structures & Algorithms (DSA)
+- Begin 100 Days of Code Challenge
+- Build portfolio-worthy projects (TTS, games, utilities)
+- Learn Java, C++, and core CS fundamentals
 
 ---
 
-🤝 Let’s Connect
+## 🔗 Explore My Projects
 
-📫 GitHub: abhinav-coding
-
-🧠 Ask me anything about my journey!
-
-
-
----
-
-Stay consistent. Dream big. Build daily. 🔥
-
+| Project | Description |
+|--------|-------------|
+| [Bonus Score Game](https://github.com/abhinav-coding/bonus-score-game) | Adds 50 bonus points to user input |
+| [Simple Calculator](https://github.com/abhinav-coding/simple-calculator) | A fully interactive arithmetic calculator |
+| [Greeting App](https://github.com/abhinav-coding/greeting-app) *(Coming soon)* | Personalized messages based on user input |
 
 ---
 
+## 💥 Power Moves I Take
+
+- Publish every mini project on GitHub
+- Learn something every single day — no matter what!
+- Focus on mastering concepts, not shortcuts
+- Accept hard challenges to grow faster
+
+---
+
+## 📚 Stay Connected
+
+🛠️ This journey is just getting started — follow along as I evolve from a student with a dream to a Google software engineer!
+
+---
+
+> “Consistency beats talent when talent doesn’t work consistently.”
+
+---
