@@ -1,77 +1,81 @@
-👨‍💻 Abhinav's Dev Journey 🚀
+# 👨‍💻 Abhinav's Dev Journey 🚀
 
-  
+![Python](https://img.shields.io/badge/Learning-Python-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Mobile-orange)
+![Goal](https://img.shields.io/badge/Goal-Google%20Software%20Engineer-brightgreen)
+![Consistency](https://img.shields.io/badge/Focus-Consistency%20%26%20Growth-yellow)
 
-
----
-
-Welcome to Abhinav's Developer Journey 👋 This repository is my personal coding journal where I document all my programming projects, learning milestones, and progress towards becoming a world-class software engineer 💻🌟.
-
-🌱 Currently Learning: Java, Hackathon preparation, DSA (soon)
-
-💡 Long-Term Goal: Land a Software Engineer role at Google and build impactful tech projects.
-
+Welcome to my developer portfolio! I'm a student on a mission to become a world-class software engineer at Google. I believe in the power of learning by doing, and I’m building my future step by step — starting from just a mobile phone. 📱✨
 
 ---
 
-📂 My Projects
+## 📂 What You’ll Find Here
 
-🔥 Secure Password Generator
+- 🧠 **Mini Projects**  
+  Real Python projects like calculators, games, and more!
 
-A secure password generator with password strength checker and neat UI in Python 🐍.
+- 🔧 **Debugging Challenges**  
+  Where I fix broken code and explain the errors.
 
-🔥 Java Simple Calculator
-
-A beginner-friendly calculator app in Java that supports basic arithmetic operations ➕➖✖️➗.
-
-
----
-
-✨ About Me
-
-Hi! I’m Abhinav, a passionate programmer 👨‍💻 and a Class 9 student. I’m on a mission to:
-
-🚀 Learn core programming languages like Java, Python, C++
-
-📚 Master Data Structures and Algorithms (DSA)
-
-🎨 Build creative mini and professional projects
-
-🏆 Participate in Hackathons and win 🎉
-
-👨‍💼 Get a software engineering job at Google.
-
-
-Follow my journey and watch me grow!
-
+- 🚀 **Long-Term Portfolio Moves**  
+  - `100 Days of Code`
+  - GitHub streak logs
+  - Portfolio.md & power-moves.md
 
 ---
 
-📖 Portfolio
+## 🧩 Why I’m Doing This
 
-Project	Language	Link
-
-🔑 Secure Password Generator	Python	View Project
-🖩 Java Simple Calculator	Java	View Project
-🌱 More coming soon...	🔜	
-
-
+- ✅ To learn Python, problem-solving, and real-world coding
+- 🏆 To qualify for scholarships & crack Google-level interviews
+- 🎯 To build a rock-solid developer portfolio on GitHub
+- 🌍 To inspire others starting with just a mobile phone
 
 ---
 
-🛠️ Tech Stack
+## 🌟 Current Skills
 
-  
-
-
----
-
-📜 License
-
-This repository is licensed under the MIT License. See the LICENSE file for details.
-
+- Python (Beginner–Intermediate)
+- Debugging
+- GitHub basics
+- Problem-solving mindset
 
 ---
 
-⭐ Star this repository to support my journey and stay tuned for more projects!
+## ⏳ Upcoming Goals
 
+- Start Data Structures & Algorithms (DSA)
+- Begin 100 Days of Code Challenge
+- Build portfolio-worthy projects (TTS, games, utilities)
+- Learn Java, C++, and core CS fundamentals
+
+---
+
+## 🔗 Explore My Projects
+
+| Project | Description |
+|--------|-------------|
+| [Bonus Score Game](https://github.com/abhinav-coding/bonus-score-game) | Adds 50 bonus points to user input |
+| [Simple Calculator](https://github.com/abhinav-coding/simple-calculator) | A fully interactive arithmetic calculator |
+| [Greeting App](https://github.com/abhinav-coding/greeting-app) *(Coming soon)* | Personalized messages based on user input |
+
+---
+
+## 💥 Power Moves I Take
+
+- Publish every mini project on GitHub
+- Learn something every single day — no matter what!
+- Focus on mastering concepts, not shortcuts
+- Accept hard challenges to grow faster
+
+---
+
+## 📚 Stay Connected
+
+🛠️ This journey is just getting started — follow along as I evolve from a student with a dream to a Google software engineer!
+
+---
+
+> “Consistency beats talent when talent doesn’t work consistently.”
+
+---
