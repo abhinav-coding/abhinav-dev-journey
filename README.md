@@ -1,128 +1,82 @@
----
+# 👨‍💻 Abhinav's Dev Journey 🚀
 
-👨‍💻 Abhinav's Dev Journey 🚀
+![Python](https://img.shields.io/badge/Learning-Python-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Mobile-orange)
+![Goal](https://img.shields.io/badge/Goal-Google%20Software%20Engineer-brightgreen)
+![Consistency](https://img.shields.io/badge/Focus-Consistency%20%26%20Growth-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-
-
-
-
-
-
-
-Welcome to my developer portfolio!
-I’m Abhinav, a student on a mission to become a world-class software engineer at Google. 🌟 Starting with just a mobile phone, I’m building projects, learning new programming languages, and documenting my journey step by step. 📱💻
-
+Welcome to my developer portfolio! I'm a student on a mission to become a world-class software engineer at Google. I believe in the power of learning by doing, and I’m building my future step by step — starting from just a mobile phone. 📱✨
 
 ---
 
-📂 What You’ll Find Here
+## 📂 What You’ll Find Here
 
-🧠 Mini Projects
-Python & Java projects like calculators, games, and more.
+- 🧠 **Mini Projects**  
+  Real Python & Java projects like calculators, games, and more!
 
-🔧 Debugging Challenges
-Fixing broken code and explaining the logic behind it.
+- 🔧 **Debugging Challenges**  
+  Where I fix broken code and explain the errors.
 
-🚀 Long-Term Portfolio Moves
-
-100 Days of Code
-
-GitHub streak logs
-
-portfolio.md & power-moves.md
-
-
-
+- 🚀 **Long-Term Portfolio Moves**  
+  - `100 Days of Code`
+  - GitHub streak logs
+  - Portfolio.md & power-moves.md
 
 ---
 
-🧩 Why I’m Doing This
+## 🧩 Why I’m Doing This
 
-✅ To learn Python, Java, problem-solving, and real-world coding
-
-🏆 To qualify for scholarships & crack Google-level interviews
-
-🎯 To build a rock-solid developer portfolio on GitHub
-
-🌍 To inspire others starting from scratch
-
-
+- ✅ To learn Python, Java, and problem-solving
+- 🏆 To qualify for scholarships & crack Google-level interviews
+- 🎯 To build a rock-solid developer portfolio on GitHub
+- 🌍 To inspire others starting with just a mobile phone
 
 ---
 
-🌟 Current Skills
+## 🌟 Current Skills
 
-Python (Beginner–Intermediate)
-
-Java (Beginner)
-
-Debugging
-
-GitHub basics
-
-Problem-solving mindset
-
-
+- Python (Beginner–Intermediate)
+- Java (Basics)
+- Debugging
+- GitHub basics
+- Problem-solving mindset
 
 ---
 
-⏳ Upcoming Goals
+## ⏳ Upcoming Goals
 
-Start Data Structures & Algorithms (DSA)
-
-Build portfolio-worthy projects (TTS apps, games, utilities)
-
-Continue learning Java, C++, and core CS fundamentals
-
-Begin 100 Days of Code challenge
-
-
+- Start Data Structures & Algorithms (DSA)
+- Begin 100 Days of Code Challenge
+- Build portfolio-worthy projects (TTS, games, utilities)
+- Learn Java, C++, and core CS fundamentals
 
 ---
 
-🔗 Explore My Projects
+## 🔗 Explore My Projects
 
-Project	Description
-
-Bonus Score Game	Adds 50 bonus points to user input
-Java Simple Calculator	A professional calculator supporting multiple operations
-
-
-
----
-
-💥 Power Moves I Take
-
-✅ Publish every mini project on GitHub
-
-✅ Learn something every single day — no matter what!
-
-✅ Focus on mastering concepts, not shortcuts
-
-✅ Accept hard challenges to grow faster
-
-
+| Project                                       | Description                                  |
+|-----------------------------------------------|----------------------------------------------|
+| [Bonus Score Game](https://github.com/abhinav-coding/bonus-score-game) | Adds 50 bonus points to user input           |
+| [Java Simple Calculator](https://github.com/abhinav-coding/java-simple-calculator) | Fully interactive arithmetic calculator      |
+| [Greeting App](https://github.com/abhinav-coding/greeting-app) *(Coming soon)* | Personalized messages based on user input    |
 
 ---
 
-📚 Stay Connected
+## 💥 Power Moves I Take
 
-🛠️ This journey is just getting started — follow along as I evolve from a student with a dream to a Google software engineer!
-
+- ✅ Publish every mini project on GitHub
+- ✅ Learn something every single day — no matter what!
+- ✅ Focus on mastering concepts, not shortcuts
+- ✅ Accept hard challenges to grow faster
 
 ---
 
-📜 License
+## 📜 License
 
-This repository is licensed under the MIT License.
-You are free to use, modify, and distribute this code with proper attribution.
-
+This repository is licensed under the MIT License.  
+See [LICENSE](LICENSE) for more information.
 
 ---
 
 > “Consistency beats talent when talent doesn’t work consistently.”
-
-
-
-
----
