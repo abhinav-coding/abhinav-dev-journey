@@ -59,7 +59,6 @@ Welcome to my developer portfolio! I'm a student on a mission to become a world-
 |-----------------------------------------------|----------------------------------------------|
 | [Bonus Score Game](https://github.com/abhinav-coding/bonus-score-game) | Adds 50 bonus points to user input           |
 | [Java Simple Calculator](https://github.com/abhinav-coding/java-simple-calculator) | Fully interactive arithmetic calculator      |
-| [Greeting App](https://github.com/abhinav-coding/greeting-app) *(Coming soon)* | Personalized messages based on user input    |
 
 ---
 
