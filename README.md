@@ -1,81 +1,128 @@
-# 👨‍💻 Abhinav's Dev Journey 🚀
+---
 
-![Python](https://img.shields.io/badge/Learning-Python-blue?logo=python)
-![Platform](https://img.shields.io/badge/Platform-Mobile-orange)
-![Goal](https://img.shields.io/badge/Goal-Google%20Software%20Engineer-brightgreen)
-![Consistency](https://img.shields.io/badge/Focus-Consistency%20%26%20Growth-yellow)
+👨‍💻 Abhinav's Dev Journey 🚀
 
-Welcome to my developer portfolio! I'm a student on a mission to become a world-class software engineer at Google. I believe in the power of learning by doing, and I’m building my future step by step — starting from just a mobile phone. 📱✨
+
+
+
+
+
+
+
+Welcome to my developer portfolio!
+I’m Abhinav, a student on a mission to become a world-class software engineer at Google. 🌟 Starting with just a mobile phone, I’m building projects, learning new programming languages, and documenting my journey step by step. 📱💻
+
 
 ---
 
-## 📂 What You’ll Find Here
+📂 What You’ll Find Here
 
-- 🧠 **Mini Projects**  
-  Real Python projects like calculators, games, and more!
+🧠 Mini Projects
+Python & Java projects like calculators, games, and more.
 
-- 🔧 **Debugging Challenges**  
-  Where I fix broken code and explain the errors.
+🔧 Debugging Challenges
+Fixing broken code and explaining the logic behind it.
 
-- 🚀 **Long-Term Portfolio Moves**  
-  - `100 Days of Code`
-  - GitHub streak logs
-  - Portfolio.md & power-moves.md
+🚀 Long-Term Portfolio Moves
 
----
+100 Days of Code
 
-## 🧩 Why I’m Doing This
+GitHub streak logs
 
-- ✅ To learn Python, problem-solving, and real-world coding
-- 🏆 To qualify for scholarships & crack Google-level interviews
-- 🎯 To build a rock-solid developer portfolio on GitHub
-- 🌍 To inspire others starting with just a mobile phone
+portfolio.md & power-moves.md
+
+
+
 
 ---
 
-## 🌟 Current Skills
+🧩 Why I’m Doing This
 
-- Python (Beginner–Intermediate)
-- Debugging
-- GitHub basics
-- Problem-solving mindset
+✅ To learn Python, Java, problem-solving, and real-world coding
 
----
+🏆 To qualify for scholarships & crack Google-level interviews
 
-## ⏳ Upcoming Goals
+🎯 To build a rock-solid developer portfolio on GitHub
 
-- Start Data Structures & Algorithms (DSA)
-- Begin 100 Days of Code Challenge
-- Build portfolio-worthy projects (TTS, games, utilities)
-- Learn Java, C++, and core CS fundamentals
+🌍 To inspire others starting from scratch
+
+
 
 ---
 
-## 🔗 Explore My Projects
+🌟 Current Skills
 
-| Project | Description |
-|--------|-------------|
-| [Bonus Score Game](https://github.com/abhinav-coding/bonus-score-game) | Adds 50 bonus points to user input |
-| [Simple Calculator](https://github.com/abhinav-coding/simple-calculator) | A fully interactive arithmetic calculator |
-| [Greeting App](https://github.com/abhinav-coding/greeting-app) *(Coming soon)* | Personalized messages based on user input |
+Python (Beginner–Intermediate)
 
----
+Java (Beginner)
 
-## 💥 Power Moves I Take
+Debugging
 
-- Publish every mini project on GitHub
-- Learn something every single day — no matter what!
-- Focus on mastering concepts, not shortcuts
-- Accept hard challenges to grow faster
+GitHub basics
+
+Problem-solving mindset
+
+
 
 ---
 
-## 📚 Stay Connected
+⏳ Upcoming Goals
+
+Start Data Structures & Algorithms (DSA)
+
+Build portfolio-worthy projects (TTS apps, games, utilities)
+
+Continue learning Java, C++, and core CS fundamentals
+
+Begin 100 Days of Code challenge
+
+
+
+---
+
+🔗 Explore My Projects
+
+Project	Description
+
+Bonus Score Game	Adds 50 bonus points to user input
+Java Simple Calculator	A professional calculator supporting multiple operations
+
+
+
+---
+
+💥 Power Moves I Take
+
+✅ Publish every mini project on GitHub
+
+✅ Learn something every single day — no matter what!
+
+✅ Focus on mastering concepts, not shortcuts
+
+✅ Accept hard challenges to grow faster
+
+
+
+---
+
+📚 Stay Connected
 
 🛠️ This journey is just getting started — follow along as I evolve from a student with a dream to a Google software engineer!
+
+
+---
+
+📜 License
+
+This repository is licensed under the MIT License.
+You are free to use, modify, and distribute this code with proper attribution.
+
 
 ---
 
 > “Consistency beats talent when talent doesn’t work consistently.”
+
+
+
 
 ---
